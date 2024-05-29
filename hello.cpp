@@ -9,7 +9,3 @@ int main () {
   MyClass a(5);
   cout << a.getX() << endl;
 }
-
-//comment
-//comment11
-//changes
